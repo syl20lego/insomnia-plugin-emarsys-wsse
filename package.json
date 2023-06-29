@@ -1,9 +1,9 @@
 {
-    "name": "insomnia-emarsys-wsse",
+    "name": "insomnia-plugin-emarsys-wsse",
     "version": "1.0.0",
     "main": "plugin.js",
     "insomnia": {
-        "name": "insomnia-emarsys-wsse",
+        "name": "insomnia-plugin-emarsys-wsse",
         "displayName": "Emarsys WSSE Plugin",
         "description": "This plugin adds the WSSE headers with Emarsys format.",
         "publisher": {

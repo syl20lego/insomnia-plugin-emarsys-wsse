@@ -14,7 +14,7 @@ const base64Sha1 = (str) => {
 }
 
 module.exports.templateTags = [{
-    name: 'InsomniaEmarsysWsse',
+    name: 'InsomniaPluginEmarsysWsse',
     displayName: 'Emarsys WSSE',
     description: 'Generate a Emarsys WSSE header',
     args: [
