@@ -1,6 +1,6 @@
 {
     "name": "insomnia-plugin-emarsys-wsse",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "This plugin adds the WSSE headers with Emarsys format.",
     "main": "plugin.js",
     "author": "Sylvain Legault",
