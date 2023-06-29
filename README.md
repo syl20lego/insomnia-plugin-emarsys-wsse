@@ -6,8 +6,7 @@ No depenedencies
 Work with Emarsys [API](https://dev.emarsys.com/)
 
 ## NPM
-[https://www.npmjs.com/package/insomnia-plugin-emarsys-wsse
-](https://www.npmjs.com/package/insomnia-plugin-emarsys-wsse)
+[https://www.npmjs.com/package/insomnia-plugin-emarsys-wsse](https://www.npmjs.com/package/insomnia-plugin-emarsys-wsse)
 
 ## Insomnia
 [Insomnia](https://support.insomnia.rest/) is a free cross-platform desktop application that takes the pain out of interacting with HTTP-based APIs. 
