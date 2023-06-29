@@ -1,7 +1,20 @@
 {
     "name": "insomnia-plugin-emarsys-wsse",
-    "version": "1.0.1",
+    "version": "1.0.2",
+    "description": "This plugin adds the WSSE headers with Emarsys format.",
     "main": "plugin.js",
+    "author": "Sylvain Legault",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/syl20lego/insomnia-plugin-emarsys-wsse.git"
+    },
+    "keywords": [
+        "insomnia",
+        "plugin",
+        "Emarsys",
+        "WSSE"
+    ],
     "insomnia": {
         "name": "insomnia-plugin-emarsys-wsse",
         "displayName": "Emarsys WSSE Plugin",
